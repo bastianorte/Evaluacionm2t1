@@ -27,3 +27,7 @@ https://bastianorte.github.io/Evaluacionm2t1/
 index.html: Esta página proporciona una descripción del hospital, servicios y testimonios<br>
 equipo.html: Esta página proporciona una descripción del equipo médico del hospital<br>
 contacto.html: Esta página permite que los pacientes se pongan en contacto con el hospital
+
+##Utilidades en repositorio
+Framework Bootstrap
+Framework de iconos Boxicons
