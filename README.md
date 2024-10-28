@@ -28,6 +28,6 @@ index.html: Esta página proporciona una descripción del hospital, servicios y 
 equipo.html: Esta página proporciona una descripción del equipo médico del hospital<br>
 contacto.html: Esta página permite que los pacientes se pongan en contacto con el hospital
 
-##Utilidades en repositorio
+## Utilidades en repositorio
 Framework Bootstrap
 Framework de iconos Boxicons
