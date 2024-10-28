@@ -29,5 +29,5 @@ equipo.html: Esta página proporciona una descripción del equipo médico del ho
 contacto.html: Esta página permite que los pacientes se pongan en contacto con el hospital
 
 ## Utilidades en repositorio
--Framework Bootstrap
+-Framework Bootstrap<br>
 -Framework de iconos Boxicons
