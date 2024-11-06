@@ -7,16 +7,16 @@ Si deseas visualizar el archivo HTML contenido en este repositorio, sigue los pa
 
 1. Clonar el Repositorio
 
-'''
+```
 git clone https://github.com/bastianorte/Evaluacionm2t1.git
-'''
+```
 
 
 Tambien lo puedes ver desde una web generado en GitHub Pages
 https://bastianorte.github.io/Evaluacionm2t1/
 
 ## Estructura de carpetas y archivos. 
-'''
+```
 - index.html
 - equipo.html
 - contacto.html
@@ -33,7 +33,7 @@ https://bastianorte.github.io/Evaluacionm2t1/
   -- pr5.jpg<br>
   -- pr6.jpg<br>
   -- pr7.jpg
-'''
+```
 
 ## Explicación breve de cada vista
 index.html: Esta página proporciona una descripción del hospital, servicios y testimonios<br>
