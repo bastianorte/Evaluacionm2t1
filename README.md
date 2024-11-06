@@ -3,9 +3,9 @@
 ## Descripción
 Web de hospital con tres vistas principales: Home, Equipo Médico y Contacto.
 
-Si deseas visualizar el archivo HTML contenido en este repositorio, sigue los pasos a continuación:
+Si deseas visualizar el archivo HTML contenido en este repositorio
 
-1. Clonar el Repositorio
+Puedes clonar el Repositorio y verlo desdew un navegador
 
 ```
 git clone https://github.com/bastianorte/Evaluacionm2t1.git
